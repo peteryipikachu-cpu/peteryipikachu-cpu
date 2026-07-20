@@ -1,0 +1,34 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI and Data profile banner</title>
+  <desc id="desc">Dark blue banner with a neural-network inspired data pattern.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#102A43"/>
+      <stop offset="1" stop-color="#261447"/>
+    </linearGradient>
+    <linearGradient id="line" x1="86" y1="76" x2="1180" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity=".18"/>
+      <stop offset=".52" stop-color="#A78BFA" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity=".22"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#background)"/>
+  <g opacity=".28" stroke="url(#line)" stroke-width="1.5">
+    <path d="M52 252L182 178L310 242L446 120L584 189L730 72L862 164L1018 98L1226 202"/>
+    <path d="M72 86L182 178L294 92L446 120L548 58L730 72L862 164L968 257L1150 138"/>
+    <path d="M52 252L172 288L310 242L446 298L584 189L694 263L862 164L1018 278L1226 202"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="182" cy="178" r="7" fill="#38BDF8"/><circle cx="446" cy="120" r="7" fill="#A78BFA"/>
+    <circle cx="584" cy="189" r="7" fill="#38BDF8"/><circle cx="730" cy="72" r="7" fill="#F472B6"/>
+    <circle cx="862" cy="164" r="7" fill="#A78BFA"/><circle cx="1018" cy="98" r="7" fill="#38BDF8"/>
+    <circle cx="1150" cy="138" r="7" fill="#F472B6"/>
+  </g>
+  <text x="70" y="80" fill="#E2E8F0" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="700" letter-spacing="4">BUILD · MEASURE · SHARE</text>
+  <text x="70" y="292" fill="#94A3B8" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" letter-spacing="1">AI / DATA · REPRODUCIBLE EXPERIMENTS · USEFUL PRODUCTS</text>
+</svg>
