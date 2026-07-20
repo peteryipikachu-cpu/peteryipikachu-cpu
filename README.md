@@ -64,20 +64,40 @@
 | [项目名称](https://github.com/peteryipikachu-cpu/仓库名) | 使用 X 完成 Y；在 Z 数据集/场景下达到指标 N | [代码](链接) · [演示](链接) |
 -->
 
-## GitHub 动态
+## Signals
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peteryipikachu-cpu&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=FFFDF7&title_color=111827&text_color=374151&icon_color=7C3AED" alt="GitHub statistics for peteryipikachu-cpu" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteryipikachu-cpu&layout=compact&hide_border=true&bg_color=FFFDF7&title_color=111827&text_color=374151" alt="Most used languages for peteryipikachu-cpu" />
-</div>
+> 不用泛泛的技能百分比，而是用公开项目说明我能交付什么。
 
-## 正在学习与贡献
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 · AI 内容运营闭环</strong><br />
+      <a href="https://github.com/peteryipikachu-cpu/rednote-content-ops-studio">rednote-content-ops-studio</a><br /><br />
+      将账号定位、样本采集、趋势洞察、图文生成、发布检查与复盘串成可追踪工作流。<br /><br />
+      <sub>React · TypeScript · FastAPI · PostgreSQL · Redis · 多模态模型</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 · 多模态创意应用</strong><br />
+      <a href="https://github.com/peteryipikachu-cpu/Vivart">Vivart</a><br /><br />
+      构建支持多参考图、局部文字重绘、图片 / 视频生成与画布编排的创意工作台。<br /><br />
+      <sub>Next.js · TypeScript · Route Handlers · GPT Image · Seedance · TOS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 · 视觉检索与评估</strong><br />
+      <a href="https://github.com/peteryipikachu-cpu/image-style-search">image-style-search</a><br /><br />
+      用 CLIP 向量检索和多维相似度分析，为图像风格匹配与 badcase 复盘提供依据。<br /><br />
+      <sub>Python · Flask · CLIP · 向量检索 · Parquet · OSS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 · 工程化交付</strong><br />
+      每个代表项目都提供环境变量边界、启动步骤、接口或架构说明，以及可扩展的数据 / 任务链路。<br /><br />
+      <sub>可运行原型 · 异步任务 · 服务化 API · 数据持久化 · 安全配置</sub>
+    </td>
+  </tr>
+</table>
 
-- 持续完善可复现的 AI / 数据项目，并将关键决策与局限写入 README。
-- 欢迎提出改进建议、交流数据与机器学习实践，或关注后续公开的项目案例。
+## Contact
 
-## 联系我
-
-目前最稳定的联系入口是 [GitHub 主页](https://github.com/peteryipikachu-cpu)。
-
-<!-- 在确认公开意愿后，替换为你的简历、邮箱、LinkedIn、博客或知乎链接。不要在仓库中提交敏感联系方式。 -->
+AI 应用工程、智能内容工具或多模态产品方向的交流与合作，欢迎通过 [GitHub](https://github.com/peteryipikachu-cpu) 联系我。
