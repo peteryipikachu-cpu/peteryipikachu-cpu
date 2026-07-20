@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 你好，我是 peteryipikachu-cpu 👋
+# 你好，我是 pikachu 👋
 
 ### 在数据、模型与创意之间，做能陪人把想法落地的 AI 产品
 
@@ -44,19 +44,17 @@
   <img src="https://img.shields.io/badge/LLM_%26_Multimodal-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM and multimodal AI" />
 </p>
 
-> 请只保留你实际使用过的技术标签；具体替换清单见 [PROFILE_CONTENT_CHECKLIST.md](./PROFILE_CONTENT_CHECKLIST.md)。
-
 ## 精选项目
 
 > 我将项目设计为可运行、可追踪、可复盘的 AI 产品；每个仓库都包含完整的启动说明、技术架构和已知限制。
 
 <table width="100%">
   <tr>
-    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/rednote-content-ops-studio"><img width="100%" src="./assets/illustrations/rednote-trae-story.png" alt="RedNote Content Ops Studio：AI 内容运营闭环场景插画" /></a></td>
-    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/Vivart"><img width="100%" src="./assets/illustrations/vivart-story.png" alt="Vivart：AI 图像与视频创意画布场景插画" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/rednote-content-ops-studio"><img width="100%" src="./assets/project-cards/rednote-content-ops-studio-card.svg" alt="rednote-content-ops-studio：小红书 AI 内容运营工作台，选题到发布工作流" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/Vivart"><img width="100%" src="./assets/project-cards/vivart-card.svg" alt="Vivart：AI 创意画布，图片与视频生成、编辑与灵感探索" /></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/peteryipikachu-cpu/image-style-search"><img width="50%" src="./assets/illustrations/image-style-search-story.png" alt="Image Style Search：CLIP 图像风格检索场景插画" /></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/peteryipikachu-cpu/image-style-search"><img width="50%" src="./assets/project-cards/image-style-search-card.svg" alt="image-style-search：图像风格检索与分析，CLIP 向量检索与相似图搜索" /></a></td>
   </tr>
 </table>
 
