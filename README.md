@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="AI and Data profile banner" width="100%" />
+  <img src="./assets/illustrations/profile-hero.png" alt="手绘 AI 与数据应用开发者的个人横幅" width="100%" />
 </div>
 
 <div align="center">
@@ -50,8 +50,8 @@
 
 <table width="100%">
   <tr>
-    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/rednote-trae"><img width="100%" src="./assets/project-cards/rednote-trae.svg" alt="RedNote-Trae 项目卡片" /></a></td>
-    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/Vivart"><img width="100%" src="./assets/project-cards/vivart.svg" alt="Vivart 项目卡片" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/rednote-trae"><img width="100%" src="./assets/illustrations/rednote-trae-story.png" alt="RedNote-Trae：AI 内容运营闭环场景插画" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/Vivart"><img width="100%" src="./assets/illustrations/vivart-story.png" alt="Vivart：AI 图像与视频创意画布场景插画" /></a></td>
   </tr>
 </table>
 
