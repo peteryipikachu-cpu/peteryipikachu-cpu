@@ -6,9 +6,9 @@
 
 # 你好，我是 peteryipikachu-cpu 👋
 
-### AI / 数据应用方向求职者 · 关注可复现的智能工作流与创意产品
+### 在数据、模型与创意之间，做能陪人把想法落地的 AI 产品
 
-我正在寻找 AI、机器学习或数据应用相关的机会，喜欢把问题拆解为可验证的数据流程、智能工作流和可运行的产品。
+正在寻找 AI、机器学习或数据应用相关的机会。我喜欢从一张草图、一段用户反馈或一团复杂的数据开始，把它们整理成可验证的智能工作流与可运行的产品。
 
 [![GitHub](https://img.shields.io/badge/GitHub-peteryipikachu--cpu-111827?style=for-the-badge&logo=github)](https://github.com/peteryipikachu-cpu)
 
