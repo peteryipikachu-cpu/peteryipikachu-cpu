@@ -50,8 +50,11 @@
 
 <table width="100%">
   <tr>
-    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/rednote-trae"><img width="100%" src="./assets/illustrations/rednote-trae-story.png" alt="RedNote-Trae：AI 内容运营闭环场景插画" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/rednote-content-ops-studio"><img width="100%" src="./assets/illustrations/rednote-trae-story.png" alt="RedNote Content Ops Studio：AI 内容运营闭环场景插画" /></a></td>
     <td width="50%"><a href="https://github.com/peteryipikachu-cpu/Vivart"><img width="100%" src="./assets/illustrations/vivart-story.png" alt="Vivart：AI 图像与视频创意画布场景插画" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/peteryipikachu-cpu/image-style-search"><img width="50%" src="./assets/illustrations/image-style-search-story.png" alt="Image Style Search：CLIP 图像风格检索场景插画" /></a></td>
   </tr>
 </table>
 
