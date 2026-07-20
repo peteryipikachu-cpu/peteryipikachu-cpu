@@ -19,8 +19,10 @@
 ## Route
 
 <p align="center">
-  <img src="./assets/route.svg" alt="AI 应用创作路线" width="100%" />
+  <img src="./assets/illustrations/ai-application-engineer-route.png" alt="AI 应用工程师的发展路线：数据与模型、Agent 工作流、产品化部署、评估迭代" width="100%" />
 </p>
+
+<p align="center"><sub>数据与模型 · Agent / 工作流 · 产品化部署 · 评估与迭代</sub></p>
 
 ---
 
