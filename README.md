@@ -14,6 +14,17 @@
 
 </div>
 
+---
+
+## Route
+
+<p align="center">
+  <img src="./assets/route.svg" alt="AI 应用创作路线" width="100%" />
+</p>
+
+---
+
+
 ## 我关注什么
 
 - **可复现**：用清晰的环境、数据与实验记录，让结果能够被他人验证。
@@ -37,10 +48,13 @@
 
 > 我将项目设计为可运行、可追踪、可复盘的 AI 产品；每个仓库都包含完整的启动说明、技术架构和已知限制。
 
-| 项目 | 你将看到什么 | 链接 |
-| --- | --- | --- |
-| [RedNote-Trae](https://github.com/peteryipikachu-cpu/rednote-trae) | 面向小红书运营的 AI 内容生产与复盘闭环：从账号定位、热点采样、趋势分析到图文生成、发布检查与复盘。 | React · TypeScript · FastAPI · PostgreSQL · Redis · 多模态 AI · Chrome 扩展 |
-| [Vivart](https://github.com/peteryipikachu-cpu/Vivart) | 原创 AI 创意画布：在无限画布中完成图像／视频生成、参考图编辑、文字局部重绘与素材管理。 | Next.js · React · TypeScript · GPT Image · Seedance · 火山引擎 TOS |
+<table width="100%">
+  <tr>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/rednote-trae"><img width="100%" src="./assets/project-cards/rednote-trae.svg" alt="RedNote-Trae 项目卡片" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/Vivart"><img width="100%" src="./assets/project-cards/vivart.svg" alt="Vivart 项目卡片" /></a></td>
+  </tr>
+</table>
+
 
 <!--
 新增项目时，请使用可核验表述，不要编造指标：
@@ -50,8 +64,8 @@
 ## GitHub 动态
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peteryipikachu-cpu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=F472B6" alt="GitHub statistics for peteryipikachu-cpu" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteryipikachu-cpu&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages for peteryipikachu-cpu" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peteryipikachu-cpu&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=FFFDF7&title_color=111827&text_color=374151&icon_color=7C3AED" alt="GitHub statistics for peteryipikachu-cpu" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteryipikachu-cpu&layout=compact&hide_border=true&bg_color=FFFDF7&title_color=111827&text_color=374151" alt="Most used languages for peteryipikachu-cpu" />
 </div>
 
 ## 正在学习与贡献
