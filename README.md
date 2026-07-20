@@ -6,9 +6,9 @@
 
 # 你好，我是 peteryipikachu-cpu 👋
 
-### AI / 数据方向求职者 · 关注可复现的模型实验与数据产品
+### AI / 数据应用方向求职者 · 关注可复现的智能工作流与创意产品
 
-我正在寻找 AI、机器学习或数据相关的机会，喜欢把问题拆解为可验证的数据流程、模型实验和可运行的应用。
+我正在寻找 AI、机器学习或数据应用相关的机会，喜欢把问题拆解为可验证的数据流程、智能工作流和可运行的产品。
 
 [![GitHub](https://img.shields.io/badge/GitHub-peteryipikachu--cpu-111827?style=for-the-badge&logo=github)](https://github.com/peteryipikachu-cpu)
 
@@ -24,26 +24,26 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Data_Analysis-0F766E?style=flat-square&logo=pandas&logoColor=white" alt="Data analysis" />
-  <img src="https://img.shields.io/badge/Machine_Learning-F59E0B?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Deep learning" />
-  <img src="https://img.shields.io/badge/Experimentation-7C3AED?style=flat-square&logo=jupyter&logoColor=white" alt="Experimentation" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/LLM_%26_Multimodal-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM and multimodal AI" />
 </p>
 
 > 请只保留你实际使用过的技术标签；具体替换清单见 [PROFILE_CONTENT_CHECKLIST.md](./PROFILE_CONTENT_CHECKLIST.md)。
 
 ## 精选项目
 
-> 正在将可公开展示的项目整理为完整案例。每个案例都会说明问题、职责、技术方案、可复现步骤与可核验结果。
+> 我将项目设计为可运行、可追踪、可复盘的 AI 产品；每个仓库都包含完整的启动说明、技术架构和已知限制。
 
 | 项目 | 你将看到什么 | 链接 |
 | --- | --- | --- |
-| 数据项目 / 模型项目（待补充） | 问题定义、数据来源、方法、指标与复现说明 | [浏览全部仓库](https://github.com/peteryipikachu-cpu?tab=repositories) |
-| 数据项目 / 模型项目（待补充） | 问题定义、数据来源、方法、指标与复现说明 | [浏览全部仓库](https://github.com/peteryipikachu-cpu?tab=repositories) |
-| 数据项目 / 模型项目（待补充） | 问题定义、数据来源、方法、指标与复现说明 | [浏览全部仓库](https://github.com/peteryipikachu-cpu?tab=repositories) |
+| [RedNote-Trae](https://github.com/peteryipikachu-cpu/rednote-trae) | 面向小红书运营的 AI 内容生产与复盘闭环：从账号定位、热点采样、趋势分析到图文生成、发布检查与复盘。 | React · TypeScript · FastAPI · PostgreSQL · Redis · 多模态 AI · Chrome 扩展 |
+| [Vivart](https://github.com/peteryipikachu-cpu/Vivart) | 原创 AI 创意画布：在无限画布中完成图像／视频生成、参考图编辑、文字局部重绘与素材管理。 | Next.js · React · TypeScript · GPT Image · Seedance · 火山引擎 TOS |
 
 <!--
-替换每一行时，请使用可核验表述，不要编造指标：
+新增项目时，请使用可核验表述，不要编造指标：
 | [项目名称](https://github.com/peteryipikachu-cpu/仓库名) | 使用 X 完成 Y；在 Z 数据集/场景下达到指标 N | [代码](链接) · [演示](链接) |
 -->
 
@@ -64,4 +64,3 @@
 目前最稳定的联系入口是 [GitHub 主页](https://github.com/peteryipikachu-cpu)。
 
 <!-- 在确认公开意愿后，替换为你的简历、邮箱、LinkedIn、博客或知乎链接。不要在仓库中提交敏感联系方式。 -->
-
