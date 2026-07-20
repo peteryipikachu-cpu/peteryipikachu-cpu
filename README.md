@@ -73,40 +73,6 @@
 
 <p align="center"><sub>基于 3 个代表项目的公开代码统计 · 更新于 2026-07-20</sub></p>
 
-## Project Signals
-
-> 用公开项目说明我能交付什么。
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 · AI 内容运营闭环</strong><br />
-      <a href="https://github.com/peteryipikachu-cpu/rednote-content-ops-studio">rednote-content-ops-studio</a><br /><br />
-      将账号定位、样本采集、趋势洞察、图文生成、发布检查与复盘串成可追踪工作流。<br /><br />
-      <sub>React · TypeScript · FastAPI · PostgreSQL · Redis · 多模态模型</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 · 多模态创意应用</strong><br />
-      <a href="https://github.com/peteryipikachu-cpu/Vivart">Vivart</a><br /><br />
-      构建支持多参考图、局部文字重绘、图片 / 视频生成与画布编排的创意工作台。<br /><br />
-      <sub>Next.js · TypeScript · Route Handlers · GPT Image · Seedance · TOS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 · 视觉检索与评估</strong><br />
-      <a href="https://github.com/peteryipikachu-cpu/image-style-search">image-style-search</a><br /><br />
-      用 CLIP 向量检索和多维相似度分析，为图像风格匹配与 badcase 复盘提供依据。<br /><br />
-      <sub>Python · Flask · CLIP · 向量检索 · Parquet · OSS</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 · 工程化交付</strong><br />
-      每个代表项目都提供环境变量边界、启动步骤、接口或架构说明，以及可扩展的数据 / 任务链路。<br /><br />
-      <sub>可运行原型 · 异步任务 · 服务化 API · 数据持久化 · 安全配置</sub>
-    </td>
-  </tr>
-</table>
-
 ## Contact
 
 AI 应用工程、智能内容工具或多模态产品方向的交流与合作，欢迎通过 [GitHub](https://github.com/peteryipikachu-cpu) 联系我。
