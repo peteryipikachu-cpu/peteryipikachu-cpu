@@ -54,7 +54,8 @@
     <td width="50%"><a href="https://github.com/peteryipikachu-cpu/Vivart"><img width="100%" src="./assets/project-cards/vivart-card.svg" alt="Vivart：AI 创意画布，图片与视频生成、编辑与灵感探索" /></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/peteryipikachu-cpu/image-style-search"><img width="50%" src="./assets/project-cards/image-style-search-card.svg" alt="image-style-search：图像风格检索与分析，CLIP 向量检索与相似图搜索" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/image-style-search"><img width="100%" src="./assets/project-cards/image-style-search-card.svg" alt="image-style-search：图像风格检索与分析，CLIP 向量检索与相似图搜索" /></a></td>
+    <td width="50%"><a href="https://github.com/peteryipikachu-cpu/stem-system"><img width="100%" src="./assets/project-cards/stem-system-card.svg" alt="stem-system：STEM 题目审核系统，批量导入、异步 AI 审核与结果追溯" /></a></td>
   </tr>
 </table>
 
@@ -67,11 +68,11 @@
 ## Signals
 
 <p align="center">
-  <img width="49%" src="./assets/signals/github-stats.svg" alt="pikachu 的 GitHub 数据概览：3 个代表项目、198 次提交、4 个公开原创仓库、0 个 Star" />
-  <img width="49%" src="./assets/signals/most-used-languages.svg" alt="三个代表项目的常用语言：TypeScript 43.1%、Python 27.3%、HTML 24.2% 等" />
+  <img width="49%" src="./assets/signals/github-stats.svg" alt="pikachu 的 GitHub 数据概览：4 个代表项目、201 次提交、5 个公开原创仓库、0 个 Star" />
+  <img width="49%" src="./assets/signals/most-used-languages.svg" alt="四个代表项目的常用语言：TypeScript 42.1%、Python 30.8%、HTML 22.1% 等" />
 </p>
 
-<p align="center"><sub>基于 3 个代表项目的公开代码统计 · 更新于 2026-07-20</sub></p>
+<p align="center"><sub>基于 4 个代表项目的公开代码统计 · 更新于 2026-07-21</sub></p>
 
 ## Contact
 

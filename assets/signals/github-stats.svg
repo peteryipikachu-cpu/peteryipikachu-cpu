@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
   <title id="title">pikachu's GitHub Stats</title>
-  <desc id="desc">3 个代表项目、198 次提交、4 个公开原创仓库和 0 个 Star。</desc>
+  <desc id="desc">4 个代表项目、201 次提交、5 个公开原创仓库和 0 个 Star。</desc>
   <rect width="900" height="500" rx="28" fill="#FFFDF7"/>
   <rect x="1" y="1" width="898" height="498" rx="27" fill="none" stroke="#E7E5E4" stroke-width="2"/>
   <g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" fill="#172033">
     <text x="64" y="92" font-size="37" font-weight="800">pikachu's GitHub Stats</text>
     <g font-size="25" font-weight="700" fill="#475569">
-      <text x="116" y="174">Featured Projects</text><text x="440" y="174">3</text>
-      <text x="116" y="238">Commits</text><text x="440" y="238">198</text>
-      <text x="116" y="302">Public Repositories</text><text x="440" y="302">4</text>
+      <text x="116" y="174">Featured Projects</text><text x="440" y="174">4</text>
+      <text x="116" y="238">Commits</text><text x="440" y="238">201</text>
+      <text x="116" y="302">Public Repositories</text><text x="440" y="302">5</text>
       <text x="116" y="366">Total Stars</text><text x="440" y="366">0</text>
     </g>
     <g fill="none" stroke="#F59E0B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
